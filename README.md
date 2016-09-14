@@ -1,0 +1,1 @@
+"# VLCLib32BitCompiledWindows" 
